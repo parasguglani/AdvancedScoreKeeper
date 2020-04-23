@@ -1,0 +1,2 @@
+rootProject.name='scorekeeper'
+include ':app'
